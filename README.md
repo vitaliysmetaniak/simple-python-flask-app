@@ -28,7 +28,17 @@ bash -> make run
 bash -> make clean
 
 After starting the container, the application will be available at:
-http://localhost:5000
+http://localhost
+
+## Docker Image on Docker Hub
+
+The Docker image for this project is published on Docker Hub and can be pulled using the following command:
+
+```bash
+docker pull vitalysourcream/simple-python-flask-app:latest
+
+You can view the image repository and additional details here:
+https://hub.docker.com/r/vitalysourcream/simple-python-flask-app
 
 ## Screenshots
 
