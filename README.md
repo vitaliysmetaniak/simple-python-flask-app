@@ -28,5 +28,10 @@ bash -> make clean
 After starting the container, the application will be available at:
 http://localhost:5000
 
+## Screenshots
+
+![App running](screenshots/app_running.jpg)
+![Nginx logs](screenshots/app_cert.jpg)
+
 License
 MIT
