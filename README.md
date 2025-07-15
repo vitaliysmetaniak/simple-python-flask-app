@@ -34,7 +34,7 @@ http://localhost
 
 The Docker image for this project is published on Docker Hub and can be pulled using the following command:
 
-```bash
+bash
 docker pull vitalysourcream/simple-python-flask-app:latest
 
 You can view the image repository and additional details here:
